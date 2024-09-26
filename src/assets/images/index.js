@@ -3,9 +3,9 @@ import logoLight from "./logoLight.png";
 import bannerImgOne from "./banner/bannerImgOne.webp";
 import bannerImgTwo from "./banner/bannerImgTwo.webp";
 import bannerImgThree from "./banner/bannerImgThree.webp";
-import saleImgOne from "./sale/shop1.jpg";
-import saleImgTwo from "./sale/shop2.jpg";
-import saleImgThree from "./sale/shop3.jpg";
+import saleImgOne from "./sale/saleImg1.png";
+import saleImgTwo from "./sale/saleImgTwo.webp";
+import saleImgThree from "./sale/saleImgThree.webp";
 // ============== Products Start here ====================
 // New Arrivals
 import newArrOne from "./products/newArrival/stapler.png";
